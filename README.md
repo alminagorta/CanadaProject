@@ -1,7 +1,7 @@
 # Canada Project
 
 
-This contains biological, chemical, habitat data and analysis for streams and lakes in all Canada sampled between 1987 and 2017 
+This contains biological, chemical, habitat data and analysis for streams and lakes in Canada sampled between 1987 and 2017 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png)
 
 [BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
