@@ -6,7 +6,7 @@ This contains biological, chemical, habitat data and analysis for streams and la
 
 [BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
-
+[CABIN license]: https://open.canada.ca/en/open-government-licence-canada
 ## Licensing:
 For the fish data in EcoCat see [EcoCat copyright]
 For the CABIN data, see [CABIN copyright]
