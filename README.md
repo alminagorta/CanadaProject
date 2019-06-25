@@ -2,9 +2,9 @@
 
 
 This contains biological, chemical, habitat data and analysis for streams and lakes in all Canada sampled between 1987 and 2017 
- ![](https://github.com/alminagorta/CanadaProject/blob/master/Figures/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png)
+ ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png)
 
-[BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/LICENSE
+[BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
 
 ## Licensing:
