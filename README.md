@@ -19,8 +19,12 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [Fig1]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/Benthic_2.png 
 ## Data Source:
 To find the raw data, see the following links:
-* Benthic and habitat data come from [the Canadian Aquatic Biomonitoring Network - CABIN site] and the [Ontario Benthos Biomonitoring Network]. 
-* Fish data come from [EcoCat BC site] and Ontario Ministry of Natural Resources & Forestry 
+* Benthic and habitat data come from:
+ [the Canadian Aquatic Biomonitoring Network - CABIN site] and 
+ the [Ontario Benthos Biomonitoring Network]. 
+* Fish data come from:
+ [EcoCat BC site] and 
+ Ontario Ministry of Natural Resources & Forestry 
 ## Benthic,Habitat and Fish Data and Analysis:
 An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code].Some results of the class of invertebrates and type of data available per site are presented below 
 
