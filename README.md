@@ -9,9 +9,9 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
 [CABIN license]: https://open.canada.ca/en/open-government-licence-canada
 ## Licensing:
-For the fish data in EcoCat see [EcoCat copyright]
-For the CABIN data, see [CABIN copyright]
-For the code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
+* For the fish data in EcoCat see [EcoCat copyright]
+* For the benthi and habitat data, see CABIN data, see [CABIN license]
+* For the code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
 
 ## More Information: 
 Please visit the [Website of the project] or contact o.alminagorta@utoronto.ca
