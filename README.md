@@ -12,15 +12,15 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 
 [EcoCat BC site]: http://a100.gov.bc.ca/pub/acat/public/welcome.do 
 [the Canadian Aquatic Biomonitoring Network - CABIN site]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
-[Ontario Benthos Biomonitoring Network]: https://www.ontario.ca/data/ontario-benthos-biomonitoring-network
+[Ontario Benthos Biomonitoring Network] : https://www.ontario.ca/data/ontario-benthos-biomonitoring-network
 ## Data Source:
 To find the raw data see the following links:
-* Benthic and habitat data come from [the Canadian Aquatic Biomonitoring Network - CABIN site] and the [Ontario Benthos Biomonitoring] Network
+* Benthic and habitat data come from [the Canadian Aquatic Biomonitoring Network - CABIN site] and the [Ontario Benthos Biomonitoring Network]
 * Fish data come from [EcoCat BC site] and Ontario Ministry of Natural Resources & Forestry 
 
 ## Licensing:
-* For the fish data in EcoCat see [EcoCat copyright]
 * For the benthi and habitat data, see CABIN data, see [CABIN license] and OBB license.
+* For the fish data in EcoCat see [EcoCat copyright]
 * For the code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
 
 ## More Information: 
