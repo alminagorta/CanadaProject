@@ -1,5 +1,6 @@
 # Canada Project
-This contains biological, chemical, habitat data and analysis for streams and lakes in Canada sampled between 1987 and 2017 
+This contains environmental data and analysis for streams and lakes in Canada sampled between 1987 and 2017.
+The map below presents the sites where data is available. Red dots are sites with biological, chemical, habitat data, while blue dots are sites with fish data available.
 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/All_CABIN_Ianfish_OBBN.png)
 
@@ -8,6 +9,15 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
 [CABIN license]: https://open.canada.ca/en/open-government-licence-canada
+
+[EcoCat BC site]: http://a100.gov.bc.ca/pub/acat/public/welcome.do 
+[CABIN]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
+
+## Data Source:
+You can find the raw data in the following links:
+* Benthic and habitat data come from 
+*
+
 ## Licensing:
 * For the fish data in EcoCat see [EcoCat copyright]
 * For the benthi and habitat data, see CABIN data, see [CABIN license]
