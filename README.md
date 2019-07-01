@@ -10,23 +10,24 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
 [CABIN license]: https://open.canada.ca/en/open-government-licence-canada
 
-[EcoCat BC site]: http://a100.gov.bc.ca/pub/acat/public/welcome.do 
-[the Canadian Aquatic Biomonitoring Network - CABIN site]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
+[Ecological Reports Catalogue of British Columbia]: http://a100.gov.bc.ca/pub/acat/public/welcome.do 
+[the Canadian Aquatic Biomonitoring Network]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
 [Ontario Benthos Biomonitoring Network]: https://www.ontario.ca/data/ontario-benthos-biomonitoring-network
 
 [St. Lawrence Drainage Area]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/2_St_Lawrence_BenthicData.csv
 [python code]: https://github.com/alminagorta/CanadaProject/tree/master/Python_Code
 [Fig1]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/Benthic_2.png 
 ## Data Source:
-To find the raw data, see the following links:
+To find the raw data:
 * Benthic and habitat data come from:
- [the Canadian Aquatic Biomonitoring Network - CABIN site] and 
- the [Ontario Benthos Biomonitoring Network]. 
+  * [the Canadian Aquatic Biomonitoring Network] (CABIN) and 
+  * the [Ontario Benthos Biomonitoring Network] (OBBN). 
 * Fish data come from:
- [EcoCat BC site] and 
- Ontario Ministry of Natural Resources & Forestry 
+  * [Ecological Reports Catalogue of British Columbia] (EcoCat BC) and 
+  * Ontario Ministry of Natural Resources & Forestry 
+  
 ## Benthic,Habitat and Fish Data and Analysis:
-An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code].Some results of the class of invertebrates and type of data available per site are presented below 
+An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code]. Some results of the class of invertebrates and type of data available per site are presented below 
 
 <img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Benthic_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png" width=200/>
 ## Licensing:
