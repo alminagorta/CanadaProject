@@ -24,7 +24,7 @@ To find the raw data:
   * the [Ontario Benthos Biomonitoring Network] (OBBN). 
 * Fish data come from:
   * [Ecological Reports Catalogue of British Columbia] (EcoCat BC) and 
-  * Ontario Ministry of Natural Resources & Forestry 
+  * Ontario Ministry of Natural Resources & Forestry (only electrofishing data)
   
 ## Benthic,Habitat and Fish Data and Analysis:
 An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code]. Some results of the class of invertebrates and type of data available per site are presented below 
