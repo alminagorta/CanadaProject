@@ -2,7 +2,7 @@ Two main sources of Biomonitoring data:
 
 # CABIN: Canadian Aquatic Biomonitoring Network
 
-CABIN is an aquatic monitoring program for assessing the health of fresh water ecosystems in Canada. Benthic macroinvertebrates,habitat features,water quality parameters are collected in the 11 major drainage areas in Canada. This data is used as an indicator of the health of that water body. Samples cover between 1987 and 2017
+CABIN is an aquatic monitoring program for assessing the health of fresh water ecosystems in Canada. Benthic macroinvertebrates,habitat features,water quality parameters are collected in the 11 major drainage areas in Canada. This data is used as an indicator of the health of that water body. Samples cover between 1987 and 2017.
 Here the St. Lawrence Drainage Area is presented as example of the data available and data analysis. You can download the other drainage areas from CABIN website.
 
 [Source CABIN]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
@@ -15,7 +15,7 @@ Data mapped was downloaded in June 2019.
 
 # OBBN: Ontario Benthos Biomonitoring Network
 
-"This contains biological, chemical, and habitat data for streams and lakes sampled between 2007 and 2013.
+"This contains biological, chemical, and habitat data for streams and lakes sampled between 2008 and 2012
 
 Information includes:
 
