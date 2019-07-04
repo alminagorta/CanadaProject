@@ -11,6 +11,7 @@ Here the St. Lawrence Drainage Area is presented as example of the data availabl
 
 [data available in CABIN]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/CABIN%20Field%20Descriptions.pdf
 Here is the type of [data available in CABIN]
+Data mapped was downloaded in June 2019. 
 
 
 # OBBN: Ontario Benthos Biomonitoring Network
