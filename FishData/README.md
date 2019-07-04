@@ -9,14 +9,24 @@ Two main sources of fish survey data:
 [Source]: https://www2.gov.bc.ca/gov/content/environment/research-monitoring-reporting/libraries-publication-catalogues/ecocat
 [Source]
 
+* Multiple methods (e.g., electrofishing, angling, dip neting, etc)   
+* Data range:1990-2013
+* Spatial range: lake, reservoirs, streams
+* files used: no encripted 
+
 [data available of EcoCat]: https://github.com/alminagorta/CanadaProject/blob/master/FishData/EcoCat%20Field%20Descriptions.pdf
 Here is the type of [data available of EcoCat]
 
 
-# Ontario Ministry of Natural Resources & Forestry
+# OMNRF: Ontario Ministry of Natural Resources & Forestry
 
 * Only electrofishing data 
 * Multiple sources (e.g., oldFish, ORCA,FWIS,etc) 
 * Data range:1971-2017
-* file name: 'efish_space.xlsx'
+* file name used: 'efish_space.xlsx'
+
+[data available of OMNRF]: https://github.com/alminagorta/CanadaProject/blob/master/FishData/efish_spaceField_Description.pdf
+Here is the type of [data available of OMNRF]
+
+
 
