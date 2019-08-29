@@ -20,6 +20,7 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [St. Lawrence Drainage Area]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/2_St_Lawrence_BenthicData.csv
 [python code]: https://github.com/alminagorta/CanadaProject/tree/master/Python_Code
 [Fig1]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/Benthic_2.png 
+[Ontario Freshwater Fishes Life History Database]: http://www.ontariofishes.ca/home.htm
 ## Data Source:
 To find the raw data:
 * Benthic and habitat data come from:
@@ -28,11 +29,23 @@ To find the raw data:
 * Fish data come from:
   * [Ecological Reports Catalogue of British Columbia] (EcoCat BC) and 
   * Ontario Ministry of Natural Resources & Forestry (only electrofishing data)
+  * [Ontario Freshwater Fishes Life History Database]
   
 ## Benthic,Habitat and Fish Data and Analysis:
 An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code]. Some results of the class of invertebrates and type of data available per site are presented below 
 
 <img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Benthic_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/OutAll_DrainageAreasmap_A.png" width=350/>
+
+
+## Fish Parameters
+Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fishes Life History Database] are presented in this [interactive table]
+
+<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Table1.png" width=450/>
+
+
+[interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
+
+
 
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
