@@ -1,6 +1,9 @@
 # Canada Project
-This repository contains environmental data and analysis for streams and lakes in Canada sampled between 1987 and 2017.
-The map below presents the sites where data are available. Red dots are sites with biological, chemical, habitat data, while blue dots are sites with fish data available.
+[biological, chemical, habitat data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
+[fish data available]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
+
+This repository contains environmental data and analysis for streams and lakes in Canada sampled between 1971 and 2017.
+The map below presents the sites where data are available. Red dots are sites with [biological, chemical, habitat data], while blue dots are sites with [fish data available].
 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/All_CABIN_Ianfish_OBBN.png)
 
@@ -24,12 +27,13 @@ To find the raw data:
   * the [Ontario Benthos Biomonitoring Network] (OBBN). 
 * Fish data come from:
   * [Ecological Reports Catalogue of British Columbia] (EcoCat BC) and 
-  * Ontario Ministry of Natural Resources & Forestry 
+  * Ontario Ministry of Natural Resources & Forestry (only electrofishing data)
   
 ## Benthic,Habitat and Fish Data and Analysis:
 An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code]. Some results of the class of invertebrates and type of data available per site are presented below 
 
-<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Benthic_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png" width=200/>
+<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Benthic_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/OutAll_DrainageAreasmap_A.png" width=350/>
+
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
 * For the fish data in EcoCat see [EcoCat copyright]
