@@ -50,6 +50,7 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
 * For the fish data in EcoCat see [EcoCat copyright]
+* For the [Ontario Freshwater Fishes Life History Database] contact Robert J. Eakins (creator of the database)
 * The code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
 
 ## More Information: 
