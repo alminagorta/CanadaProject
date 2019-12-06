@@ -17,6 +17,10 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [the Canadian Aquatic Biomonitoring Network]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
 [Ontario Benthos Biomonitoring Network]: https://www.ontario.ca/data/ontario-benthos-biomonitoring-network
 
+[Alberta_Lake]: http://albertalakes.ualberta.ca/?page=lake
+[BC_Lake]: http://a100.gov.bc.ca/pub/fidq/searchBathymetricMaps.do
+
+
 [St. Lawrence Drainage Area]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/2_St_Lawrence_BenthicData.csv
 [python code]: https://github.com/alminagorta/CanadaProject/tree/master/Python_Code
 [Fig1]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/Benthic_2.png 
@@ -45,7 +49,8 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
 
 [interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
 
-
+## Additional Resources: 
+* For the basic basic lake data such as area, max depth, elevation, see: [Alberta_Lake] or [BC_Lake] 
 
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
