@@ -50,7 +50,7 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
 [interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
 
 ## Additional Resources: 
-* For the basic basic lake data such as area, max depth, elevation, see: [Alberta_Lake] or [BC_Lake] 
+* For basic lake data such as area, max depth, elevation, see: [Alberta_Lake] or [BC_Lake] 
 
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
