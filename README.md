@@ -20,6 +20,7 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [Alberta_Lake]: http://albertalakes.ualberta.ca/?page=lake
 [BC_Lake]: http://a100.gov.bc.ca/pub/fidq/searchBathymetricMaps.do
 
+[cluster analysis]: https://github.com/alminagorta/MachineLearning/tree/master/Clustering
 
 [St. Lawrence Drainage Area]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/2_St_Lawrence_BenthicData.csv
 [python code]: https://github.com/alminagorta/CanadaProject/tree/master/Python_Code
@@ -42,9 +43,10 @@ An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data)
 
 
 ## Fish Parameters
-Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fishes Life History Database] are presented in this [interactive table]
+Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fishes Life History Database] are presented in this [interactive table]. Also a [cluster analysis] based on spawning temperature was implemented. 
 
-<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Table1.png" width=450/>
+
+<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Table1.png" width=280/><img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/K-means.png" width=280/><img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=280/>
 
 
 [interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
