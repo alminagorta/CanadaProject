@@ -52,8 +52,16 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
 [interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
 
 ## Additional Resources: 
-* For basic lake data such as area, max depth, elevation, see: [Alberta_Lake] or [BC_Lake] 
+* Lakes
+  * Basic lake data such as area, max depth, elevation in Alberta and BC see => [Alberta_Lake] or [BC_Lake] 
+  * 444 inland lakes in Ontario: Lake characteristics, fish, water quality parameters, and zebra mussel cases==> see: Broad-scale Monitoring program (contact: Ontario Ministry of Natural Resources and Forestry)
 
+[National Hydro Network]: https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977
+[Geospatial Product index]: http://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html
+
+* Spatial Information
+  * [National Hydro Network]: Multiple formats (e.g., shp,KMZ)
+  * [Geospatial Product index]: To download very specific working unit
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
 * For the fish data in EcoCat see [EcoCat copyright]
