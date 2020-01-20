@@ -39,9 +39,9 @@ To find the raw data:
   * [the Canadian Aquatic Biomonitoring Network] (CABIN) and 
   * the [Ontario Benthos Biomonitoring Network] (OBBN). 
 * [Fish data] come from:
-  * [Ecological Reports Catalogue of British Columbia] ([EcoCat BC]) and 
+  * [Ecological Reports Catalogue of British Columbia] =>  ([EcoCat BC]) 
   * Ontario Ministry of Natural Resources & Forestry (only electrofishing data)
-  * [Ontario Freshwater Fishes Life History Database] ([OBN])
+  * [Ontario Freshwater Fishes Life History Database] => ([OBN])
   
 ## Data Analysis:
 ### Benthic Data
