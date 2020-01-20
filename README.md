@@ -71,6 +71,10 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
   * [Geospatial Product index]: To download very specific working unit
 * Others
   * [Ontario Data]
+  * [Website of the project]
+  * [River Community Benchmarks] (Randall et.al 2017)
+
+[River Community Benchmarks]: http://waves-vagues.dfo-mpo.gc.ca/Library/40603520.pdf
   
   [Ontario Data]: https://data.ontario.ca/
   
@@ -81,6 +85,6 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
 * The code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
 
 ## More Information: 
-Please visit the [Website of the project] or contact o.alminagorta@utoronto.ca
+Please contact o.alminagorta@utoronto.ca
 
 [Website of the project]: https://mteproject.weebly.com/
