@@ -74,12 +74,13 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
   * [Geospatial Product index]: To download very specific working unit
 * Others
   * [Ontario Data]
+  * [Ice thickness] 
   * [Website of the project] (In progress)
   * [River Community Benchmarks] (Randall et.al 2017)
 
 [River Community Benchmarks]: http://waves-vagues.dfo-mpo.gc.ca/Library/40603520.pdf
-  
-  [Ontario Data]: https://data.ontario.ca/
+[Ice thickness]: https://www.canada.ca/en/environment-climate-change/services/ice-forecasts-observations/latest-conditions/archive-overview/thickness-data.html
+[Ontario Data]: https://data.ontario.ca/
   
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
