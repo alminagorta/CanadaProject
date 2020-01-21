@@ -2,8 +2,7 @@
 [biological, chemical, habitat data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
 [fish data available]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
 
-This repository contains environmental data and analysis for streams and lakes in Canada sampled between 1971 and 2017.
-The map below presents the sites where data are available. Red dots are sites with [biological, chemical, habitat data], while blue dots are sites with [fish data available].
+This repository contains data collection and data analysis of environmental data in Canada. Biological, chemical, hydrological, and spatial data were collected for multiple provinces in Canada. The map below presents the sites where data are available. Red dots are sites with [biological, chemical, habitat data], while blue dots are sites with [fish data available].
 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/All_CABIN_Ianfish_OBBN.png)
 
