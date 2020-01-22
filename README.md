@@ -31,19 +31,19 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [Ontario Ministry of Natural Resources & Forestry]: https://github.com/alminagorta/CanadaProject/tree/master/FishData#omnrf-ontario-ministry-of-natural-resources--forestry
 
 
-[Benthic and habitat data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
+[Benthic macroinvertebrates and habitat data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
 [Fish data]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
 
 ## Data Source:
-To find the raw data:
-* [Benthic and habitat data] come from:
-  * [the Canadian Aquatic Biomonitoring Network] (CABIN) and 
-  * the [Ontario Benthos Biomonitoring Network] => ([OBBN]). 
-* [Fish data] come from:
-  * [Ecological Reports Catalogue of British Columbia] =>  ([EcoCat BC]) 
-  * [Ontario Ministry of Natural Resources & Forestry] (only electrofishing data-efish)
-  * [Ontario Freshwater Fishes Life History Database] 
-  
+[Fish data] and [Benthic macroinvertebrates and habitat data] details are presented below:
+
+| Main Category        | Name          | Location (Province)|Water Body |List of Categories |Data Source  |
+| ------------- |:-------------:| -----:|----:|----:|-----:|
+| fish data     | [Ecological Reports Catalogue of British Columbia]  | BC | Lakes,Rivers | List-EcoCat |[EcoCat BC] |
+| fish data     | [Ontario Ministry of Natural Resources & Forestry]  | ON | Rivers | List-e_fish |only electrofishing data |
+| fish data     | [Ontario Freshwater Fishes Life History Database]  | ON | - | List-OFFLHD |  |
+| Macroinvertebrates data  | [the Canadian Aquatic Biomonitoring Network] | All provinces  |Lakes,Rivers| List-CABIN  | |
+| Macroinvertebrates data  | the [Ontario Benthos Biomonitoring Network] | ON |Lakes,Rivers| List-CABIN  | [OBBN] |
    
 ## Data Analysis:
 ### Benthic Data
