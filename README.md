@@ -31,11 +31,11 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [Ontario Ministry of Natural Resources & Forestry]: https://github.com/alminagorta/CanadaProject/tree/master/FishData#omnrf-ontario-ministry-of-natural-resources--forestry
 
 
-[Benthic macroinvertebrates and habitat data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
+[benthic macroinvertebrates data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
 [Fish data]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
 
 ## Data Source:
-[Fish data] and [Benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
+[Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
 | Main Category        | Name          | Location (Province)|Water Body |List of Categories |Data Source  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
