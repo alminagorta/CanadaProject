@@ -35,16 +35,23 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [Fish data]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
 
 ## Data Source:
-[Fish data] and [Benthic macroinvertebrates and habitat data] details are presented below:
+[Fish data] and [Benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
 | Main Category        | Name          | Location (Province)|Water Body |List of Categories |Data Source  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
-| fish data     | [Ecological Reports Catalogue of British Columbia]  | BC | Lakes,Rivers | List-EcoCat |[EcoCat BC] |
-| fish data     | [Ontario Ministry of Natural Resources & Forestry]  | ON | Rivers | List-e_fish |only electrofishing data |
-| fish data     | [Ontario Freshwater Fishes Life History Database]  | ON | - | List-OFFLHD |  |
-| Macroinvertebrates data  | [the Canadian Aquatic Biomonitoring Network] | All provinces  |Lakes,Rivers| List-CABIN  | |
-| Macroinvertebrates data  | the [Ontario Benthos Biomonitoring Network] | ON |Lakes,Rivers| List-CABIN  | [OBBN] |
-   
+| fish data     | [Ecological Reports Catalogue of British Columbia] (EcoCat)  | BC | Lakes,Rivers | [List-EcoCat] |[EcoCat BC] |
+| fish data     | [Ontario Ministry of Natural Resources & Forestry] (OMNRF)  | ON | Rivers | [List-e_fish] |only electrofishing data |
+| fish data     | [Ontario Freshwater Fishes Life History Database] (OFFLHD) | ON | - | [List-OFFLHD] | [OFFLHD] |
+| Macroinvertebrates data  | [the Canadian Aquatic Biomonitoring Network] (CABIN)| All provinces  |Lakes,Rivers| [List-CABIN]  | [CABIN]|
+| Macroinvertebrates data  | the [Ontario Benthos Biomonitoring Network] (OBBN) | ON |Lakes,Rivers| [List-OBBN]  | [OBBN] |
+
+[List-EcoCat]: https://github.com/alminagorta/CanadaProject/blob/master/FishData/EcoCat%20Field%20Descriptions.pdf
+[List-e_fish]: https://github.com/alminagorta/CanadaProject/blob/master/FishData/efish_spaceField_Description.pdf
+[List-CABIN]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/CABIN%20Field%20Descriptions.pdf
+[List-OBBN]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/OBBN%20Field%20Descriptions.pdf
+
+[CABIN]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
+[OFFLHD]: http://www.ontariofishes.ca/home.htm
 ## Data Analysis:
 ### Benthic Data
 An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code]. Some results of the class of invertebrates and type of data available per site are presented below 
