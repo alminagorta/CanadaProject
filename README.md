@@ -35,7 +35,7 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 [Fish data]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
 
 ## Data Source:
-[Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
+[Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data also includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
 | Main Category        | Name          | Location (Province)|Water Body |List of Categories |Data Source  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
