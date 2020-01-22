@@ -83,10 +83,10 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
   * [Geospatial Product index]: To download very specific working unit
 * Others
   * [Ontario Data]
-  * [Ice thickness] 
+  * [Ice thickness]: 195 sites (1947-2016)
   * [Website of the project] (In progress)
-  * [River Community Benchmarks] (Randall et.al 2017)
-  * [100 yrs Water Levels - Great Lakes ]
+  * [River Community Benchmarks]: Data in ON, AL,BC (1984-2013) (Randall et.al 2017)
+  * [100 yrs Water Levels - Great Lakes ]: Since 1918
   * [Alberta :Fisheries and wildlife] inventory data and [Fish stocking report]
 
 
