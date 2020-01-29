@@ -37,7 +37,7 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 ## Data Source:
 [Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data also includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
-| Main Category        | Name          | Location (Province)|Water Body |List of Categories |Data Source  |
+| Main Category        | Name          | Location (Province)|Water Body |Data Available |Data Source  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
 | fish data     | [Ecological Reports Catalogue of British Columbia] (EcoCat)  | BC | Lakes,Rivers | [List-EcoCat] |[EcoCat BC] |
 | fish data     | [Ontario Ministry of Natural Resources & Forestry] (OMNRF)  | ON | Rivers | [List-e_fish] |only electrofishing data |
