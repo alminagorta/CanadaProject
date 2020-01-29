@@ -61,9 +61,7 @@ An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data)
 ### Fish Data
 Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fishes Life History Database] are presented in this [interactive table]. Also a [cluster analysis] was implemented based on spawning temperature. 
 
-
 <img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Table1.png" width=280/><img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/K-means.png" width=280/><img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=280/>
-
 
 [interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
 
@@ -89,8 +87,6 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
   * [100 yrs Water Levels - Great Lakes ]: Since 1918
   * [Alberta :Fisheries and wildlife] inventory data and [Fish stocking report]
 
-
-
 [River Community Benchmarks]: http://waves-vagues.dfo-mpo.gc.ca/Library/40603520.pdf
 [Ice thickness]: https://www.canada.ca/en/environment-climate-change/services/ice-forecasts-observations/latest-conditions/archive-overview/thickness-data.html
 [Ontario Data]: https://data.ontario.ca/
@@ -103,7 +99,6 @@ Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fi
 * For the fish data in EcoCat see [EcoCat copyright]
 * For the [Ontario Freshwater Fishes Life History Database] contact Robert J. Eakins (creator of the database)
 * The code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
-
 ## More Information: 
 Please contact o.alminagorta@utoronto.ca
 
