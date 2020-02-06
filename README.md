@@ -6,7 +6,10 @@ This repository contains data collection and data analysis in Canada. Biological
 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/All_CABIN_Ianfish_OBBN.png)
 
-You can find the interactive map at https://bit.ly/2XBBkDO 
+You can find the interactive map in [GIS] or [Google fussion Table]  
+
+[GIS]: https://utoronto.maps.arcgis.com/apps/Minimalist/index.html?appid=1212a88ec70a40f9b1daa6aabe52c1b9
+[Google fussion Table]: https://bit.ly/2XBBkDO 
 
 [BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
