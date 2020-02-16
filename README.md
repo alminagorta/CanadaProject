@@ -8,7 +8,7 @@ This repository contains data collection and data analysis in Canada. Biological
 
 You can find the interactive map in [GIS] or [Google fussion Table]  
 
-[GIS]: https://utoronto.maps.arcgis.com/apps/Minimalist/index.html?appid=1212a88ec70a40f9b1daa6aabe52c1b9
+[GIS]: https://utoronto.maps.arcgis.com/apps/PublicInformation/index.html?appid=bc08f59f89324961b5b1aa4395c46cd7
 [Google fussion Table]: https://bit.ly/2XBBkDO 
 
 [BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
