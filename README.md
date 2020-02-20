@@ -1,8 +1,9 @@
-# Canada Project
+# Data in Canada
 [biological, chemical, habitat data]: https://github.com/alminagorta/CanadaProject/tree/master/Benthic_Habitat_Data
 [fish data available]: https://github.com/alminagorta/CanadaProject/tree/master/FishData
+[data analysis]: https://github.com/alminagorta/CanadaProject/tree/master/Data%20Analysis
 
-This repository contains data collection and data analysis in Canada. Biological, chemical, hydrological, and spatial data were collected for multiple provinces in Canada. The map below presents the sites where data are available. Red dots are sites with [biological, chemical, habitat data], while blue dots are sites with [fish data available].
+This repository contains data collection and [data analysis] in Canada. Biological, chemical, hydrological, and spatial data were collected for multiple provinces in Canada. The map below presents the sites where data are available. Red dots are sites with [biological, chemical, habitat data], while blue dots are sites with [fish data available].
 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/All_CABIN_Ianfish_OBBN.png)
 
@@ -40,7 +41,7 @@ You can find the interactive map in [GIS] or [Google fussion Table]
 ## Data :
 [Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data also includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
-| Main Category        | Name          | Location (Province)|Water Body |Data Available |Data Source  |
+| Main Category        | Name          | Location (Province)|Water Body |List of Specific Data Available |Data Source  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
 | fish data     | [Ecological Reports Catalogue of British Columbia] (EcoCat)  | BC | Lakes,Rivers | [List-EcoCat] |[EcoCat BC] |
 | fish data     | [Ontario Ministry of Natural Resources & Forestry] (OMNRF)  | ON | Rivers | [List-e_fish] |only electrofishing data |
