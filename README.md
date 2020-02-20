@@ -30,7 +30,7 @@ You can find the interactive map in [GIS] or [Google fussion Table]
 [St. Lawrence Drainage Area]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/2_St_Lawrence_BenthicData.csv
 [python code]: https://github.com/alminagorta/CanadaProject/tree/master/Python_Code
 [Fig1]: https://github.com/alminagorta/CanadaProject/blob/master/Benthic_Habitat_Data/Benthic_2.png 
-[Ontario Freshwater Fishes Life History Database]: http://www.ontariofishes.ca/home.htm
+[OFFLHD]: http://www.ontariofishes.ca/home.htm
 [OBBN]: https://data.ontario.ca/dataset/ontario-benthos-biomonitoring-network
 [Ontario Ministry of Natural Resources & Forestry]: https://github.com/alminagorta/CanadaProject/tree/master/FishData#omnrf-ontario-ministry-of-natural-resources--forestry
 
@@ -41,13 +41,13 @@ You can find the interactive map in [GIS] or [Google fussion Table]
 ## Data :
 [Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data also includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
-| Main Category        | Name          | Location (Province)|Water Body |List of Specific Data Available |Data Source  |
+| Main Category        | Name          | Location (Province)|Water Body |Specific Data Attributes |Data Availability  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
-| fish data     | [Ecological Reports Catalogue of British Columbia] (EcoCat)  | BC | Lakes,Rivers | [List-EcoCat] |[EcoCat BC] |
-| fish data     | [Ontario Ministry of Natural Resources & Forestry] (OMNRF)  | ON | Rivers | [List-e_fish] |only electrofishing data |
-| fish data     | [Ontario Freshwater Fishes Life History Database] (OFFLHD) | ON | - | [List-OFFLHD] | [OFFLHD] |
-| Macroinvertebrates data  | [the Canadian Aquatic Biomonitoring Network] (CABIN)| All provinces  |Lakes,Rivers| [List-CABIN]  | [CABIN]|
-| Macroinvertebrates data  | the [Ontario Benthos Biomonitoring Network] (OBBN) | ON |Lakes,Rivers| [List-OBBN]  | [OBBN] |
+| fish data     | [Ecological Reports Catalogue of British Columbia] (EcoCat)  | BC | Lakes,Rivers | [List-EcoCat] |Public,download at [EcoCat BC] |
+| fish data     | [Ontario Ministry of Natural Resources & Forestry] (OMNRF)  | ON | Rivers | [List-e_fish] |Private<sup>*</sup> |
+| fish data     | Ontario Freshwater Fishes Life History Database (OFFLHD) | ON | - | [List-OFFLHD] | Public,download at [OFFLHD] |
+| Macroinvertebrates data  | [the Canadian Aquatic Biomonitoring Network] (CABIN)| All provinces  |Lakes,Rivers| [List-CABIN]  | Public, download at [CABIN]|
+| Macroinvertebrates data  | the [Ontario Benthos Biomonitoring Network] (OBBN) | ON |Lakes,Rivers| [List-OBBN]  | Public, download at [OBBN] |
 
 [List-EcoCat]: https://github.com/alminagorta/CanadaProject/blob/master/FishData/EcoCat%20Field%20Descriptions.pdf
 [List-e_fish]: https://github.com/alminagorta/CanadaProject/blob/master/FishData/efish_spaceField_Description.pdf
@@ -90,7 +90,7 @@ You can find the interactive map in [GIS] or [Google fussion Table]
 ## Licensing:
 * For the benthic and habitat data, see [CABIN license] and OBBN license.
 * For the fish data in EcoCat see [EcoCat copyright]
-* For the [Ontario Freshwater Fishes Life History Database] contact Robert J. Eakins (creator of the database)
+* For the Ontario Freshwater Fishes Life History Database contact Robert J. Eakins (creator of the database)
 * The code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
 ## More Information: 
 Please contact o.alminagorta@utoronto.ca
