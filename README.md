@@ -6,7 +6,10 @@ This repository contains data collection and data analysis in Canada. Biological
 
  ![](https://github.com/alminagorta/CanadaProject/blob/master/Miscel/All_CABIN_Ianfish_OBBN.png)
 
-You can find the interactive map at https://bit.ly/2XBBkDO 
+You can find the interactive map in [GIS] or [Google fussion Table]  
+
+[GIS]: https://utoronto.maps.arcgis.com/apps/PublicInformation/index.html?appid=bc08f59f89324961b5b1aa4395c46cd7
+[Google fussion Table]: https://bit.ly/2XBBkDO 
 
 [BSD 3-Clause license]: https://github.com/alminagorta/CanadaProject/blob/master/Miscel/LICENSE
 [EcoCat copyright]: https://www2.gov.bc.ca/gov/content/home/copyright
@@ -37,7 +40,7 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 ## Data Source:
 [Fish data] and [benthic macroinvertebrates data] were collected from multiple sources.Aditionally, this data also includes biological, chemical, habitat and hydrological features in multiple provinces in Canada. Please find details in the list of Categories of the Table below.
 
-| Main Category        | Name          | Location (Province)|Water Body |List of Categories |Data Source  |
+| Main Category        | Name          | Location (Province)|Water Body |Data Available |Data Source  |
 | ------------- |:-------------:| -----:|----:|----:|-----:|
 | fish data     | [Ecological Reports Catalogue of British Columbia] (EcoCat)  | BC | Lakes,Rivers | [List-EcoCat] |[EcoCat BC] |
 | fish data     | [Ontario Ministry of Natural Resources & Forestry] (OMNRF)  | ON | Rivers | [List-e_fish] |only electrofishing data |
@@ -52,6 +55,21 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 
 [CABIN]: https://open.canada.ca/data/en/dataset/13564ca4-e330-40a5-9521-bfb1be767147
 [OFFLHD]: http://www.ontariofishes.ca/home.htm
+<<<<<<< HEAD
+=======
+## Data Analysis:
+### Benthic Data
+An example of the benthic data at [St. Lawrence Drainage Area] (from CABIN data) was processed using a [python code]. Some results of the class of invertebrates and type of data available per site are presented below 
+
+<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Benthic_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Out2_St_Lawrence_Drainage%20AreaDataAva_2.png" width=200/><img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/OutAll_DrainageAreasmap_A.png" width=350/>
+
+### Fish Data
+Fish data parameters (e.g., lenght, weight, age) from the [Ontario Freshwater Fishes Life History Database] are presented in this [interactive table]. Also a [cluster analysis] was implemented based on spawning temperature. 
+
+<img src="https://github.com/alminagorta/CanadaProject/blob/master/Miscel/Table1.png" width=280/><img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/K-means.png" width=280/><img src="https://github.com/alminagorta/MachineLearning/blob/master/Clustering/Dendogram1.png" width=280/>
+
+[interactive table]: http://oalminagorta.byethost7.com/Table_FishOntario/Table3_FishOntario.html 
+>>>>>>> 4a0cd9bbc5ee387c57d7a5ee4a461c8cf63ea3c2
 
 ## Additional Resources: 
 * Lakes-Specific Provinces
@@ -71,13 +89,12 @@ You can find the interactive map at https://bit.ly/2XBBkDO
   * [Ontario Data]
   * [Ice thickness]: 195 sites (1947-2016)
   * [Website of the project] (In progress)
-  * [River Community Benchmarks]: Data in ON, AL,BC (1984-2013) (Randall et.al 2017)
+  * [River Community Benchmarks-Map]: Fish production in ON, AL,BC (1984-2013) [(Randall et.al 2017)]
   * [100 yrs Water Levels - Great Lakes ]: Since 1918
   * [Alberta :Fisheries and wildlife] inventory data and [Fish stocking report]
 
-
-
-[River Community Benchmarks]: http://waves-vagues.dfo-mpo.gc.ca/Library/40603520.pdf
+[River Community Benchmarks-Map]: https://arcg.is/0SC9P
+[(Randall et.al 2017)]:http://waves-vagues.dfo-mpo.gc.ca/Library/40603520.pdf
 [Ice thickness]: https://www.canada.ca/en/environment-climate-change/services/ice-forecasts-observations/latest-conditions/archive-overview/thickness-data.html
 [Ontario Data]: https://data.ontario.ca/
 [100 yrs Water Levels - Great Lakes ]: http://www.tides.gc.ca/C&A/network_means-eng.html#tabs1_5
@@ -89,7 +106,6 @@ You can find the interactive map at https://bit.ly/2XBBkDO
 * For the fish data in EcoCat see [EcoCat copyright]
 * For the [Ontario Freshwater Fishes Life History Database] contact Robert J. Eakins (creator of the database)
 * The code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
-
 ## More Information: 
 Please contact o.alminagorta@utoronto.ca
 
