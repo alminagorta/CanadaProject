@@ -93,6 +93,7 @@ You can find the interactive map in [GIS] or [Google fussion Table]
 * For the Ontario Freshwater Fishes Life History Database contact Robert J. Eakins (creator of the database)
 * The code and figures in this GitHub repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
 ## More Information: 
-Please contact o.alminagorta@utoronto.ca
+* [Website of the Project]
+* Or contact o.alminagorta@utoronto.ca
 
 [Website of the project]: https://mteproject.weebly.com/
